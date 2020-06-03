@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="1513px" height="283px" viewBox="0 -4.5 1513 283" enable-background="new 0 -4.5 1513 283" xml:space="preserve">
+<g>
+	<path fill="none" stroke="#000000" stroke-miterlimit="10" d="M869,137h27.872c11,0,19.628,9,19.628,20v60c0,11,6.109,20,13.122,20
+		S942,237,942,237"/>
+</g>
+<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="15" y1="37" x2="1494" y2="37"/>
+<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="388" y1="137" x2="1412" y2="137"/>
+<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="935" y1="237" x2="1140" y2="237"/>
+<g>
+	<path fill="#F6DB4D" stroke="#020000" stroke-miterlimit="10" d="M240.5,59c0,8.284-6.716,15-15,15h-149c-8.284,0-15-6.716-15-15
+		V16c0-8.284,6.716-15,15-15h149c8.284,0,15,6.716,15,15V59z"/>
+	<rect x="64.163" y="21.131" fill="none" width="177.709" height="40.678"/>
+	<text transform="matrix(1 0 0 1 134.6035 44.5605)" font-family="'MyriadPro-Regular'" font-size="33">lot</text>
+</g>
+<g>
+	<rect x="400.5" y="101" fill="#FAED9C" stroke="#000000" stroke-miterlimit="10" width="200" height="73"/>
+	<rect x="411.873" y="122.131" fill="none" width="199.999" height="40.678"/>
+	<text transform="matrix(1 0 0 1 433.2017 145.5605)" font-family="'MyriadPro-Regular'" font-size="33">namespace</text>
+</g>
+<g>
+	<rect x="732.5" y="102" fill="#FAED9C" stroke="#000000" stroke-miterlimit="10" width="148" height="73"/>
+	<rect x="735.056" y="122.131" fill="none" width="145.635" height="40.678"/>
+	<text transform="matrix(1 0 0 1 768.7344 145.5605)" font-family="'MyriadPro-Regular'" font-size="33">name</text>
+</g>
+<g>
+	<rect x="1038.5" y="201" fill="#FAED9C" stroke="#000000" stroke-miterlimit="10" width="92" height="73"/>
+	<rect x="1052.873" y="221.131" fill="none" width="65.999" height="40.678"/>
+	<text transform="matrix(1 0 0 1 1063.2344 244.5605)" font-family="'MyriadPro-Regular'" font-size="33">tag</text>
+</g>
+<g>
+	<path fill="#F6DB4D" stroke="#020000" stroke-miterlimit="10" d="M693.5,159c0,8.284-6.716,15-15,15h-24c-8.284,0-15-6.716-15-15
+		v-43c0-8.284,6.716-15,15-15h24c8.284,0,15,6.716,15,15V159z"/>
+	<rect x="639.872" y="122.131" fill="none" width="54" height="40.678"/>
+	<text transform="matrix(1 0 0 1 661.2124 145.5605)" font-family="'MyriadPro-Regular'" font-size="33">/</text>
+</g>
+<g>
+	<path fill="#F6DB4D" stroke="#020000" stroke-miterlimit="10" d="M1001.5,258c0,8.284-6.716,15-15,15h-24c-8.284,0-15-6.716-15-15
+		v-43c0-8.284,6.716-15,15-15h24c8.284,0,15,6.716,15,15V258z"/>
+	<rect x="947.872" y="221.131" fill="none" width="54" height="40.678"/>
+	<text transform="matrix(1 0 0 1 962.7109 244.5605)" font-family="'MyriadPro-Regular'" font-size="33">@</text>
+</g>
+<polygon points="19.242,36.854 0,23.795 0,49.912 "/>
+<polygon points="38.242,36.854 19,23.795 19,49.912 "/>
+<polygon points="1493.758,36.853 1513,49.911 1513,23.794 "/>
+<polygon points="1490.242,36.853 1471,23.794 1471,49.911 "/>
+<g>
+	<path fill="none" stroke="#000000" stroke-miterlimit="10" d="M315,37h27.872c11,0,19.628,9,19.628,20v60c0,11,6.109,20,13.122,20
+		S388,137,388,137"/>
+</g>
+<g>
+	<path fill="none" stroke="#000000" stroke-miterlimit="10" d="M1485,37h-27.128c-11,0-20.372,9-20.372,20v60
+		c0,11-5.365,20-12.378,20S1412,137,1412,137"/>
+</g>
+<g>
+	<path fill="none" stroke="#000000" stroke-miterlimit="10" d="M1213,137h-27.128c-11,0-20.372,9-20.372,20v60
+		c0,11-5.365,20-12.378,20S1140,237,1140,237"/>
+</g>
+<g>
+	<path fill="#F6DB4D" stroke="#020000" stroke-miterlimit="10" d="M338.5,58c0,8.284-6.716,15-15,15h-24c-8.284,0-15-6.716-15-15V15
+		c0-8.284,6.716-15,15-15h24c8.284,0,15,6.716,15,15V58z"/>
+	<rect x="284.872" y="21.131" fill="none" width="54" height="40.678"/>
+	<text transform="matrix(1 0 0 1 308.4565 44.5605)" font-family="'MyriadPro-Regular'" font-size="33">:</text>
+</g>
+<g>
+	<rect x="1254.5" y="5" fill="#FAED9C" stroke="#000000" stroke-miterlimit="10" width="112" height="73"/>
+	<rect x="1254.873" y="26.131" fill="none" width="111.999" height="40.678"/>
+	<text transform="matrix(1 0 0 1 1290.3145 49.5605)" font-family="'MyriadPro-Regular'" font-size="33">cid</text>
+</g>
+</svg>
